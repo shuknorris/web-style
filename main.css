@@ -1,0 +1,80 @@
+.my {
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 5px;
+}
+.bold {
+    font-style: bold;
+}
+.italic {
+    font-style: italic;
+}
+.dancing {
+    font-family: 'Dancing Script', cursive;
+}
+.pacifico {
+    font-family: 'Pacifico', cursive;
+}
+.gloria {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.colors, .fonts, .styles {
+    border: 2px solid gray;
+    padding: 15px;
+    margin: 5px;
+}
+.beig {
+    background-color: #efd9ca;
+    color: black;
+}
+.mint {
+    background-color: #4fe0b0;
+    color: black;
+}
+.blue, .pink, .mint, .beig {
+    border: 2px solid springgreen;
+    padding: 5px;
+    float: inline-start;
+}
+.blue {
+    background-color: #2d5dcc;
+    color: white;
+}
+.pink {
+    background-color: #d957d9;
+    color: black;
+}
+.dance, .pacif, .glor, .main, .main1, .main2 {
+    border: 2px solid lightgray;
+    font-size: 20px;
+    padding: 5px;
+    margin: 20px;
+    display: inline-block;
+}
+.regular {
+    font-style: normal;
+}
+.main {
+    font-weight: 700;
+    font-style: bold;
+    font-size: 26px;
+    font-family: 'Dancing Script', cursive;
+}
+.main1 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Pacifico', cursive;
+}
+.main2 {
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+footer {
+    text-decoration: underline;
+    float: inline-start;
+    font-style: oblique;
+    font-family: "Pacifico", cursive;
+}
